@@ -1,0 +1,8 @@
+# Java compiled files
+*.class
+
+# C++ compiled executables
+os-class-activities-e20230906/activity4/cpp_before/client
+os-class-activities-e20230906/activity4/cpp_before/server_no_mutex
+os-class-activities-e20230906/activity4/cpp_after/client
+os-class-activities-e20230906/activity4/cpp_after/server_mutex
