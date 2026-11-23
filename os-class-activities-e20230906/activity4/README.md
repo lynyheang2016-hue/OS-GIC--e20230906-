@@ -5,7 +5,7 @@
 - Partner Name: Ly Nyheang
 - Partner Student ID: e20230906
 - Server Machine Owner: Ly Nyheang
-- Server IP Address: 172.0.0.1
+- Server IP Address: 192.168.71.175
 
 ---
 
